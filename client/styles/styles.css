@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+
+.header {
+  background-color: #00008B;
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  width: 100%;
+}
+
+.header h3 {
+  float: right;
+  color: white;
+}
